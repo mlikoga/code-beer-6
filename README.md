@@ -1,9 +1,10 @@
 # Quebo
 
 ## Code & Beer #6
-**Formato:** Coding Dojo
-**Problema:** Codificador/decoficador de URLs
-**Linguagem:** Elixir
+**Format:** Coding Dojo
+**Time frame:** 1 hour
+**Problem:** URL Encoder/decoder
+**Language:** Elixir
 
 ## Running
 
